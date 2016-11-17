@@ -26,6 +26,10 @@ gem 'jbuilder', '~> 2.5'
 gem 'twitter'
 
 gem 'bootstrap-sass'
+
+gem 'figaro'
+
+gem 'stripe'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
